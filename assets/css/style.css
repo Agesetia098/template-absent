@@ -1,0 +1,9 @@
+body{
+    background: #001024 !important;
+    color: #fff !important;
+}
+
+.container{
+    width: 320 !important;
+    height: 100vh;
+}
